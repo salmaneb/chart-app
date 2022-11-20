@@ -1,0 +1,15 @@
+.container1{
+    margin: 5px;
+    padding: 5px;
+    display: grid;
+    grid-template-columns: 45% 25% 30%;
+    justify-content: center;
+    background-color: brown;
+    grid-template-rows: 500px;
+    align-items: center;
+}
+.child{
+    font-size: large;
+    margin: 20px;
+    padding: 20px;
+}
